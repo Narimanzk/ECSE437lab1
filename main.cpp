@@ -1,6 +1,8 @@
 /*
 Narry Zendehrooh Kermani 260700556
+nariman.zendehroohkermani@mail.mcgill.ca
 Kyjauna Marshall 260802473
+kyjauna.marshall@mail.mcgill.ca
 */
 #include<iostream>
 using namespace std;
