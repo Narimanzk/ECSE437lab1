@@ -18,6 +18,23 @@
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a005f77e_f450118f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019486
+      },
+      "writtenOn": "2022-10-03T17:34:36Z",
+      "side": 1,
+      "message": "The change that you have asked for has been made in another commit captioned \"Updated the README file\"",
+      "revId": "e459d5fd9042c537408b7e81eb666a20efb84dd3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8ef98d86_03dd21c7",
@@ -31,6 +48,24 @@
       "writtenOn": "2022-10-03T16:38:03Z",
       "side": 1,
       "message": "don’t leave the README file empty",
+      "revId": "e459d5fd9042c537408b7e81eb666a20efb84dd3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f01e98e4_91720e06",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019486
+      },
+      "writtenOn": "2022-10-03T17:34:36Z",
+      "side": 1,
+      "message": "The change has been made",
+      "parentUuid": "8ef98d86_03dd21c7",
       "revId": "e459d5fd9042c537408b7e81eb666a20efb84dd3",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
