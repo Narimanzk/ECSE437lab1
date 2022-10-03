@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "862eb213_b2a3befd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019486
+      },
+      "writtenOn": "2022-10-03T15:58:00Z",
+      "side": 1,
+      "message": "Please take a look at my empty commit :\u0027)",
+      "revId": "e459d5fd9042c537408b7e81eb666a20efb84dd3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
