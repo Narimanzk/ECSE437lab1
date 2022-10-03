@@ -16,6 +16,23 @@
       "message": "Please take a look at my empty commit :\u0027)",
       "revId": "e459d5fd9042c537408b7e81eb666a20efb84dd3",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8ef98d86_03dd21c7",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020557
+      },
+      "writtenOn": "2022-10-03T16:38:03Z",
+      "side": 1,
+      "message": "don’t leave the README file empty",
+      "revId": "e459d5fd9042c537408b7e81eb666a20efb84dd3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
